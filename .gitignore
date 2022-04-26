@@ -3,3 +3,5 @@ parser_shiki_urls.txt
 Procfile
 logs.txt
 service_account.json
+.gitignore
+config_bot.py
