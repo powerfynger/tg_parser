@@ -1,0 +1,8 @@
+requests
+telebot
+bs4
+lxml
+pyTelegramBotAPI
+schedule
+gspread
+oauth2client
